@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=mihyang%20Lee&fontSize=80)
 
 <h3 align="center">
-    💻 Skills 💻
+    💻 Tech Stack 💻
 </h3>
 <p align="center">
       <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
@@ -28,14 +28,3 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="center">
-  🛠 Tools 🛠
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-7952B3?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> 
-</p>
